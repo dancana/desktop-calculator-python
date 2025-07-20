@@ -42,7 +42,7 @@ This project serves as a learning bridge for understanding:
 ## 🖼 Screenshot
 
 > *(Add a screenshot of your running calculator app here)*  
-![Calculator Screenshot](screenshot1\screenshot.png)
+![Calculator Screenshot](screenshot1/screenshot.png)
 
 ---
 
