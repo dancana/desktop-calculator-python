@@ -50,7 +50,7 @@ This project serves as a learning bridge for understanding:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/desktop-calculator-python.git
+git clone https://github.com/dancana/desktop-calculator-python.git
 cd desktop-calculator-python
 
 # Run the app
